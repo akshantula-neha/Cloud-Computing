@@ -1,6 +1,7 @@
 # Cloud-Computing
 #Deploy the above code on Google Cloud
 #A dynamic website for checking Password Strength
+
 •	Create a google cloud account
 
 •	Create a new project and a VM instance with suitable configurations if dynamic website 
