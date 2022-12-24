@@ -17,6 +17,7 @@ is to be created. Else buckets can be used to create static website.
     o	Save code and exit from the vi editor.
   
 •	Check the below link (static external ip address) to access this web application.
+
   http://34.118.240.120/
  
 
