@@ -1,6 +1,8 @@
 # Cloud-Computing
-#Deploy the above code on Google Cloud
+#Deploy the code on Google Cloud
 #A dynamic website for checking Password Strength
+
+Steps:
 
 •	Create a google cloud account
 
@@ -21,4 +23,12 @@ is to be created. Else buckets can be used to create static website.
 
   http://34.118.240.120/
  
+ 
+
+#Web page deployed on AWS
+
+
+•	Check the below link (static external ip address) to access this web page.
+
+  https://dev.dhwe5qq4hzljn.amplifyapp.com/
 
